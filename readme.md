@@ -35,3 +35,5 @@ O projeto possui navegação por seções, menu responsivo para dispositivos mó
 
 ---
 ## 🌐 Demonstração
+
+https://landing-page-food-ruby.vercel.app/#home
