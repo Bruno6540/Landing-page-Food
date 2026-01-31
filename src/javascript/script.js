@@ -53,13 +53,6 @@ $(document).ready(function() {
     });
 
             // animação produtos //
-    ScrollReveal().reveal('.dish', {
-        origin: 'left', 
-        duration: 2000,
-        distance: '20%' 
-    });
-
-            // animação produtos //
     ScrollReveal().reveal('#testimonial_chef', {
         origin: 'left', 
         duration: 1000,
